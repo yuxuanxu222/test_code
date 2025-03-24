@@ -1,1 +1,2 @@
 annotations_and_images.rar filter=lfs diff=lfs merge=lfs -text
+checkpoints.rar filter=lfs diff=lfs merge=lfs -text
